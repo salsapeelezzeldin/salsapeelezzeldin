@@ -19,7 +19,7 @@ Skilled at writing well-designed, testable and efficient code using current best
 
 <br>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Tools and Technologies:</h2>
 <p align="center"> 
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/abrahamcalf/languages.abranhe.com/blob/master/languages/c.png" alt="c" width="40" height="40"/> 
