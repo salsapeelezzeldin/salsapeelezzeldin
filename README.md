@@ -4,7 +4,7 @@
   
 A fresh graduate from the Faculty of Computers and Artificial Intelligence - Helwan University 👨‍💻🎓
  
-A passionate **Software Engineer |  Web Developer | .NET Web Developer.** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+A passionate **Software Engineer | Full Stack Web Developer.** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 Fast learner, hard worker and team player who is proficient in an array of programming languages and multimedia Web tools.<br>
 I have excellent design & coding skills, as well as the ability to convert requirements into exciting web applications.<br>
 Skilled at writing well-designed, testable and efficient code using current best practices in Web development. <br><br><br><br>
